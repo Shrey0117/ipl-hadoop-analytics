@@ -768,9 +768,7 @@ with tab5:
                                      default=[], key="match_team_filter")
         display_m = matches if not col_filter else matches[
             matches["team1"].isin(col_filter) | matches["team2"].isin(col_filter)]
-        st.dataframe(display_m.style.background_gradient(
-            subset=["win_by_runs","win_by_wickets"],
-            cmap="YlOrRd"), use_container_width=True, height=400)
+        st.dataframe(display_m, use_container_width=True, height=400)
 
         m_stats = matches.describe().round(2)
         st.markdown("<div class='sub-title' style='margin-top:1rem;'>Descriptive Statistics</div>", unsafe_allow_html=True)
