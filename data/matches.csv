@@ -1,0 +1,241 @@
+match_id,season,date,city,venue,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match
+1,2020,2020-09-19,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,75,0,MS Dhoni
+2,2020,2020-09-22,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,77,0,Aiden Markram
+3,2020,2020-09-25,Mohali,PCA Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,60,0,Bhuvneshwar Kumar
+4,2020,2020-09-28,Kolkata,Eden Gardens,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,51,0,Ravindra Jadeja
+5,2020,2020-10-01,Mumbai,Wankhede Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,2,Shimron Hetmyer
+6,2020,2020-10-04,Delhi,Arun Jaitley Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,43,0,Sanju Samson
+7,2020,2020-10-07,Chennai,MA Chidambaram Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Bhuvneshwar Kumar
+8,2020,2020-10-10,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,26,0,Kuldeep Yadav
+9,2020,2020-10-13,Kolkata,Eden Gardens,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,46,0,Mohammed Siraj
+10,2020,2020-10-16,Kolkata,Eden Gardens,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,0,8,Jos Buttler
+11,2020,2020-10-19,Kolkata,Eden Gardens,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,0,6,Jos Buttler
+12,2020,2020-10-22,Mohali,PCA Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,26,0,Ravichandran Ashwin
+13,2020,2020-10-25,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,20,0,Deepak Chahar
+14,2020,2020-10-28,Delhi,Arun Jaitley Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,0,1,Yuzvendra Chahal
+15,2020,2020-10-31,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,75,0,Shimron Hetmyer
+16,2020,2020-11-03,Delhi,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,0,5,Jos Buttler
+17,2020,2020-11-06,Chennai,MA Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,22,0,Devon Conway
+18,2020,2020-11-09,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Punjab Kings,0,6,Liam Livingstone
+19,2020,2020-11-12,Kolkata,Eden Gardens,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,34,0,Shikhar Dhawan
+20,2020,2020-11-15,Mumbai,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,0,2,Rishabh Pant
+21,2020,2020-11-18,Mohali,PCA Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Royal Challengers Bangalore,0,4,Mohammed Siraj
+22,2020,2020-11-21,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Kane Williamson
+23,2020,2020-11-24,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,74,0,Hardik Pandya
+24,2020,2020-11-27,Bangalore,Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,62,0,Rinku Singh
+25,2020,2020-11-30,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,0,8,Ruturaj Gaikwad
+26,2020,2020-12-03,Bangalore,Chinnaswamy Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,0,8,Bhuvneshwar Kumar
+27,2020,2020-12-06,Mohali,PCA Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,75,0,Kane Williamson
+28,2020,2020-12-09,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,29,0,Rohit Sharma
+29,2020,2020-12-12,Kolkata,Eden Gardens,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Chennai Super Kings,11,0,Deepak Chahar
+30,2020,2020-12-15,Delhi,Arun Jaitley Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,0,4,Ravindra Jadeja
+31,2020,2020-12-18,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,7,0,T Natarajan
+32,2020,2020-12-21,Kolkata,Eden Gardens,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,37,0,Ravindra Jadeja
+33,2020,2020-12-24,Mohali,PCA Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,2,Jos Buttler
+34,2020,2020-12-27,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,49,0,Jos Buttler
+35,2020,2020-12-30,Mohali,PCA Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,0,5,Shikhar Dhawan
+36,2020,2021-01-02,Bangalore,Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,0,9,Rohit Sharma
+37,2020,2021-01-05,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,61,0,Suryakumar Yadav
+38,2020,2021-01-08,Delhi,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,19,0,Jasprit Bumrah
+39,2020,2021-01-11,Bangalore,Chinnaswamy Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,58,0,Sanju Samson
+40,2020,2021-01-14,Delhi,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,54,0,David Warner
+41,2020,2021-01-17,Kolkata,Eden Gardens,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,34,0,MS Dhoni
+42,2020,2021-01-20,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,6,Rinku Singh
+43,2020,2021-01-23,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,0,3,Rishabh Pant
+44,2020,2021-01-26,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,0,7,Shimron Hetmyer
+45,2020,2021-01-29,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,72,0,Deepak Chahar
+46,2020,2021-02-01,Hyderabad,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,44,0,Dinesh Karthik
+47,2020,2021-02-04,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,30,0,Ravichandran Ashwin
+48,2020,2021-02-07,Bangalore,Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,44,0,Axar Patel
+49,2020,2021-02-10,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,71,0,Liam Livingstone
+50,2020,2021-02-13,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,45,0,Prithvi Shaw
+51,2020,2021-02-16,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,64,0,Devon Conway
+52,2020,2021-02-19,Hyderabad,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,19,0,Kuldeep Yadav
+53,2020,2021-02-22,Mohali,PCA Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,64,0,Ruturaj Gaikwad
+54,2020,2021-02-25,Delhi,Arun Jaitley Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,0,3,Liam Livingstone
+55,2020,2021-02-28,Kolkata,Eden Gardens,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,0,8,Shikhar Dhawan
+56,2020,2021-03-03,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,23,0,Jos Buttler
+57,2020,2021-03-06,Bangalore,Chinnaswamy Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,9,Venkatesh Iyer
+58,2020,2021-03-09,Kolkata,Eden Gardens,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,54,0,T Natarajan
+59,2020,2021-03-12,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,68,0,Faf du Plessis
+60,2020,2021-03-15,Mohali,PCA Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,3,Ravichandran Ashwin
+61,2021,2021-04-07,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,0,3,Ravichandran Ashwin
+62,2021,2021-04-10,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,6,Hardik Pandya
+63,2021,2021-04-13,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,50,0,Aiden Markram
+64,2021,2021-04-16,Mumbai,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,25,0,Ruturaj Gaikwad
+65,2021,2021-04-19,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,0,3,Rinku Singh
+66,2021,2021-04-22,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,0,7,Devon Conway
+67,2021,2021-04-25,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,78,0,Rohit Sharma
+68,2021,2021-04-28,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,0,1,Ravichandran Ashwin
+69,2021,2021-05-01,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,0,3,Sam Curran
+70,2021,2021-05-04,Mohali,PCA Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,0,6,Jos Buttler
+71,2021,2021-05-07,Mohali,PCA Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore,0,6,Virat Kohli
+72,2021,2021-05-10,Delhi,Arun Jaitley Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,0,6,Arshdeep Singh
+73,2021,2021-05-13,Mumbai,Wankhede Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,0,8,Shimron Hetmyer
+74,2021,2021-05-16,Mohali,PCA Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,43,0,Andre Russell
+75,2021,2021-05-19,Kolkata,Eden Gardens,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,7,Rishabh Pant
+76,2021,2021-05-22,Mohali,PCA Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,30,0,Glenn Maxwell
+77,2021,2021-05-25,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,0,9,Rishabh Pant
+78,2021,2021-05-28,Kolkata,Eden Gardens,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,0,1,Ishan Kishan
+79,2021,2021-05-31,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,68,0,Shikhar Dhawan
+80,2021,2021-06-03,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,12,0,Yuzvendra Chahal
+81,2021,2021-06-06,Chennai,MA Chidambaram Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,25,0,Suryakumar Yadav
+82,2021,2021-06-09,Kolkata,Eden Gardens,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,72,0,Hardik Pandya
+83,2021,2021-06-12,Jaipur,Sawai Mansingh Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,18,0,Jonny Bairstow
+84,2021,2021-06-15,Chennai,MA Chidambaram Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,26,0,Shreyas Iyer
+85,2021,2021-06-18,Mohali,PCA Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,8,Shreyas Iyer
+86,2021,2021-06-21,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,40,0,Faf du Plessis
+87,2021,2021-06-24,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,5,Hardik Pandya
+88,2021,2021-06-27,Mohali,PCA Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,6,Shimron Hetmyer
+89,2021,2021-06-30,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,0,1,Suryakumar Yadav
+90,2021,2021-07-03,Mohali,PCA Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,0,8,Shikhar Dhawan
+91,2021,2021-07-06,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,48,0,Liam Livingstone
+92,2021,2021-07-09,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,0,6,Shikhar Dhawan
+93,2021,2021-07-12,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Punjab Kings,0,8,Liam Livingstone
+94,2021,2021-07-15,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,0,2,Rohit Sharma
+95,2021,2021-07-18,Bangalore,Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,34,0,Shreyas Iyer
+96,2021,2021-07-21,Bangalore,Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,7,Hardik Pandya
+97,2021,2021-07-24,Mohali,PCA Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,14,0,Arshdeep Singh
+98,2021,2021-07-27,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,0,3,Mohammed Siraj
+99,2021,2021-07-30,Delhi,Arun Jaitley Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,36,0,Sam Curran
+100,2021,2021-08-02,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,0,7,Ruturaj Gaikwad
+101,2021,2021-08-05,Bangalore,Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,0,2,Sam Curran
+102,2021,2021-08-08,Bangalore,Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,0,6,Ishan Kishan
+103,2021,2021-08-11,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,0,9,Kane Williamson
+104,2021,2021-08-14,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,18,0,Devon Conway
+105,2021,2021-08-17,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,43,0,Glenn Maxwell
+106,2021,2021-08-20,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,27,0,Andre Russell
+107,2021,2021-08-23,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,35,0,Ravichandran Ashwin
+108,2021,2021-08-26,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,15,0,Venkatesh Iyer
+109,2021,2021-08-29,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,4,Ravichandran Ashwin
+110,2021,2021-09-01,Kolkata,Eden Gardens,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,0,1,Liam Livingstone
+111,2021,2021-09-04,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,51,0,Jos Buttler
+112,2021,2021-09-07,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Rajasthan Royals,45,0,Ravichandran Ashwin
+113,2021,2021-09-10,Delhi,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,0,7,Jos Buttler
+114,2021,2021-09-13,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,0,5,Ravindra Jadeja
+115,2021,2021-09-16,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,0,9,Sunil Narine
+116,2021,2021-09-19,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,0,6,Ravindra Jadeja
+117,2021,2021-09-22,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,0,4,Kane Williamson
+118,2021,2021-09-25,Jaipur,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,44,0,Kuldeep Yadav
+119,2021,2021-09-28,Kolkata,Eden Gardens,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,3,Devon Conway
+120,2021,2021-10-01,Mohali,PCA Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,4,T Natarajan
+121,2022,2021-10-24,Delhi,Arun Jaitley Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,1,Liam Livingstone
+122,2022,2021-10-27,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,12,0,Yuzvendra Chahal
+123,2022,2021-10-30,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,48,0,Ruturaj Gaikwad
+124,2022,2021-11-02,Bangalore,Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,9,0,Faf du Plessis
+125,2022,2021-11-05,Kolkata,Eden Gardens,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,22,0,Mohammed Siraj
+126,2022,2021-11-08,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings,63,0,Deepak Chahar
+127,2022,2021-11-11,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,13,0,Venkatesh Iyer
+128,2022,2021-11-14,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,47,0,Rinku Singh
+129,2022,2021-11-17,Bangalore,Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,8,Ishan Kishan
+130,2022,2021-11-20,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,58,0,Bhuvneshwar Kumar
+131,2022,2021-11-23,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,0,6,Jonny Bairstow
+132,2022,2021-11-26,Chennai,MA Chidambaram Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,0,3,Sam Curran
+133,2022,2021-11-29,Delhi,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,0,1,Jasprit Bumrah
+134,2022,2021-12-02,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,19,0,Glenn Maxwell
+135,2022,2021-12-05,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Mumbai Indians,40,0,Rohit Sharma
+136,2022,2021-12-08,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,78,0,Liam Livingstone
+137,2022,2021-12-11,Mumbai,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,0,6,Ruturaj Gaikwad
+138,2022,2021-12-14,Delhi,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,16,0,Axar Patel
+139,2022,2021-12-17,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,71,0,David Warner
+140,2022,2021-12-20,Chennai,MA Chidambaram Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,1,Andre Russell
+141,2022,2021-12-23,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,23,0,Bhuvneshwar Kumar
+142,2022,2021-12-26,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,22,0,Mohammed Siraj
+143,2022,2021-12-29,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,61,0,Sanju Samson
+144,2022,2022-01-01,Delhi,Arun Jaitley Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,0,5,Shikhar Dhawan
+145,2022,2022-01-04,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,0,2,Hardik Pandya
+146,2022,2022-01-07,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,0,6,Jonny Bairstow
+147,2022,2022-01-10,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,50,0,Axar Patel
+148,2022,2022-01-13,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,15,0,Faf du Plessis
+149,2022,2022-01-16,Mohali,PCA Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,66,0,Venkatesh Iyer
+150,2022,2022-01-19,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,0,8,Ravichandran Ashwin
+151,2022,2022-01-22,Delhi,Arun Jaitley Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,70,0,Hardik Pandya
+152,2022,2022-01-25,Mumbai,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,0,9,Jos Buttler
+153,2022,2022-01-28,Chennai,MA Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,11,0,Andre Russell
+154,2022,2022-01-31,Bangalore,Chinnaswamy Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,0,7,Arshdeep Singh
+155,2022,2022-02-03,Delhi,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,0,5,Jasprit Bumrah
+156,2022,2022-02-06,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,3,Dinesh Karthik
+157,2022,2022-02-09,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,60,0,Deepak Chahar
+158,2022,2022-02-12,Delhi,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals,0,8,Prithvi Shaw
+159,2022,2022-02-15,Bangalore,Chinnaswamy Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,70,0,Deepak Chahar
+160,2022,2022-02-18,Delhi,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,27,0,Hardik Pandya
+161,2022,2022-02-21,Delhi,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,0,4,Rinku Singh
+162,2022,2022-02-24,Mohali,PCA Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,0,8,Glenn Maxwell
+163,2022,2022-02-27,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,38,0,Sanju Samson
+164,2022,2022-03-02,Delhi,Arun Jaitley Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,40,0,Liam Livingstone
+165,2022,2022-03-05,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,1,T Natarajan
+166,2022,2022-03-08,Delhi,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,0,4,Shreyas Iyer
+167,2022,2022-03-11,Delhi,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,0,3,Kuldeep Yadav
+168,2022,2022-03-14,Mumbai,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,76,0,Sam Curran
+169,2022,2022-03-17,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,59,0,Heinrich Klaasen
+170,2022,2022-03-20,Chennai,MA Chidambaram Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,24,0,Arshdeep Singh
+171,2022,2022-03-23,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,73,0,Bhuvneshwar Kumar
+172,2022,2022-03-26,Mumbai,Wankhede Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,6,Yuzvendra Chahal
+173,2022,2022-03-29,Chennai,MA Chidambaram Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,48,0,Suryakumar Yadav
+174,2022,2022-04-01,Delhi,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,0,3,Faf du Plessis
+175,2022,2022-04-04,Mohali,PCA Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,11,0,Ravindra Jadeja
+176,2022,2022-04-07,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,42,0,Arshdeep Singh
+177,2022,2022-04-10,Delhi,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians,0,7,Hardik Pandya
+178,2022,2022-04-13,Bangalore,Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,2,Mohammed Siraj
+179,2022,2022-04-16,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,5,Sunil Narine
+180,2022,2022-04-19,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,51,0,Sam Curran
+181,2023,2022-05-12,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,9,0,Aiden Markram
+182,2023,2022-05-15,Bangalore,Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,0,6,Hardik Pandya
+183,2023,2022-05-18,Bangalore,Chinnaswamy Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,23,0,Shimron Hetmyer
+184,2023,2022-05-21,Delhi,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,29,0,Kuldeep Yadav
+185,2023,2022-05-24,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,42,0,T Natarajan
+186,2023,2022-05-27,Bangalore,Chinnaswamy Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Sunil Narine
+187,2023,2022-05-30,Chennai,MA Chidambaram Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,52,0,Rishabh Pant
+188,2023,2022-06-02,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,52,0,Ishan Kishan
+189,2023,2022-06-05,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,0,9,Kuldeep Yadav
+190,2023,2022-06-08,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,0,8,Sam Curran
+191,2023,2022-06-11,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,21,0,Rishabh Pant
+192,2023,2022-06-14,Bangalore,Chinnaswamy Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,50,0,Sam Curran
+193,2023,2022-06-17,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,3,Yuzvendra Chahal
+194,2023,2022-06-20,Bangalore,Chinnaswamy Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,0,1,Sanju Samson
+195,2023,2022-06-23,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Mumbai Indians,69,0,Ishan Kishan
+196,2023,2022-06-26,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,5,Ravichandran Ashwin
+197,2023,2022-06-29,Mumbai,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,4,Ravindra Jadeja
+198,2023,2022-07-02,Delhi,Arun Jaitley Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings,0,9,Sam Curran
+199,2023,2022-07-05,Kolkata,Eden Gardens,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,24,0,Virat Kohli
+200,2023,2022-07-08,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,47,0,Ishan Kishan
+201,2023,2022-07-11,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,8,MS Dhoni
+202,2023,2022-07-14,Mohali,PCA Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders,12,0,Sunil Narine
+203,2023,2022-07-17,Mohali,PCA Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,0,3,Arshdeep Singh
+204,2023,2022-07-20,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,52,0,Heinrich Klaasen
+205,2023,2022-07-23,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,22,0,Sanju Samson
+206,2023,2022-07-26,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,0,9,Virat Kohli
+207,2023,2022-07-29,Bangalore,Chinnaswamy Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,Punjab Kings,71,0,Jonny Bairstow
+208,2023,2022-08-01,Delhi,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,0,6,Shimron Hetmyer
+209,2023,2022-08-04,Jaipur,Sawai Mansingh Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,59,0,Rishabh Pant
+210,2023,2022-08-07,Mumbai,Wankhede Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,12,0,Shimron Hetmyer
+211,2023,2022-08-10,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,30,0,Shikhar Dhawan
+212,2023,2022-08-13,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,0,9,Dinesh Karthik
+213,2023,2022-08-16,Mumbai,Wankhede Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,0,9,T Natarajan
+214,2023,2022-08-19,Mohali,PCA Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,0,8,Prithvi Shaw
+215,2023,2022-08-22,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,68,0,Glenn Maxwell
+216,2023,2022-08-25,Jaipur,Sawai Mansingh Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,0,7,Arshdeep Singh
+217,2023,2022-08-28,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Punjab Kings,0,5,Liam Livingstone
+218,2023,2022-08-31,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,37,0,MS Dhoni
+219,2023,2022-09-03,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,2,Andre Russell
+220,2023,2022-09-06,Bangalore,Chinnaswamy Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,42,0,Yuzvendra Chahal
+221,2023,2022-09-09,Mumbai,Wankhede Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,28,0,Ravichandran Ashwin
+222,2023,2022-09-12,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,0,1,Virat Kohli
+223,2023,2022-09-15,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,0,3,Sam Curran
+224,2023,2022-09-18,Kolkata,Eden Gardens,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,0,5,Jonny Bairstow
+225,2023,2022-09-21,Delhi,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,0,7,Rishabh Pant
+226,2023,2022-09-24,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,0,6,Suryakumar Yadav
+227,2023,2022-09-27,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,0,5,Dinesh Karthik
+228,2023,2022-09-30,Delhi,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,0,5,Faf du Plessis
+229,2023,2022-10-03,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,34,0,Aiden Markram
+230,2023,2022-10-06,Mohali,PCA Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,0,9,Jonny Bairstow
+231,2023,2022-10-09,Chennai,MA Chidambaram Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,13,0,Rishabh Pant
+232,2023,2022-10-12,Bangalore,Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,0,2,Jos Buttler
+233,2023,2022-10-15,Mohali,PCA Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,8,Sam Curran
+234,2023,2022-10-18,Mohali,PCA Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,33,0,Shimron Hetmyer
+235,2023,2022-10-21,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,14,0,Hardik Pandya
+236,2023,2022-10-24,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Royal Challengers Bangalore,0,6,Mohammed Siraj
+237,2023,2022-10-27,Hyderabad,Rajiv Gandhi International Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,50,0,Shikhar Dhawan
+238,2023,2022-10-30,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,44,0,Ravichandran Ashwin
+239,2023,2022-11-02,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,41,0,Aiden Markram
+240,2023,2022-11-05,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,10,0,Devon Conway
